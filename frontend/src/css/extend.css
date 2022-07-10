@@ -1,0 +1,50 @@
+.ExtendPlan {
+    /* background-color: bisque; */
+    background-color: #3e8ac7;
+    text-align: center;
+    height: 100vh;
+}
+.ExtendPlan h1{
+    padding-top: 15px;
+}
+
+#title {
+    text-align: right;
+    padding-top: 3px;
+}
+
+.col-lg-7 .mb-0:hover {
+    cursor: not-allowed;
+}
+
+.col-lg-7 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.col-4 a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* #btn-extend button:hover {
+    background-color: whitesmoke;
+} */
+
+.col-4 {
+    border: none;
+}
+
+#btn-extend button {
+    color: white;
+}
+
+#btn-extend button:hover {
+    color: black;
+    background-color: whitesmoke;
+}
+
+.col-sm-5 .mb-0 {
+    font-weight: bold;
+}
