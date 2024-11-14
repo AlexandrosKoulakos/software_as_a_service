@@ -1,4 +1,4 @@
-# NTUA ECE SAAS 2022 PROJECT
+# SaaS for Energy Live Tracking 
   
 ## TEAM 10
 
